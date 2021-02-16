@@ -1,6 +1,6 @@
 {
   "name": "yyc",
-  "version": "1.4.0",
+  "version": "1.4.1",
   "description": "YY language complier",
   "engines": {
     "node": ">=14.15.4"
@@ -12,7 +12,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/TIME-GATE/yy"
+    "url": "https://github.com/FIRESIDE-STORY/yyc"
   },
   "author": "qian.zhang <zq_sdk@163.com>",
   "license": "ISC",
