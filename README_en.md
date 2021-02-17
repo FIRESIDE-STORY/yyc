@@ -2,7 +2,7 @@
 
 ### Description
 
-YY is an experimental project, the goal is to achieve Chinese programming, while also supporting custom languages (English, Japanese, etc.)
+YYC is a tiny interpreter that can realize Chinese programming and supports Node.js extension.
 
 ---
 ---
@@ -39,7 +39,7 @@ z.say();
 s.say();
 ```
 
-* [Documentation](doc/doc.md)
+* [Documentation](doc/doc_en.md)
 
 ---
 Y-Y
