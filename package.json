@@ -6,6 +6,9 @@
     "node": ">=14.15.4"
   },
   "main": "index.js",
+  "bin": {
+    "yyc": "index.js"
+  },
   "scripts": {
     "test": "node test.js",
     "build": "jison  src/yy.jison  --outfile src/yy.js"
