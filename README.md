@@ -21,6 +21,7 @@ yyc demo.yy
 
 ### 举例
 
+![avatar](./demo.gif)
 
 ```javascript
 特征 唐诗宋词 {
