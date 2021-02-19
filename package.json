@@ -1,6 +1,6 @@
 {
   "name": "yyc",
-  "version": "1.4.3",
+  "version": "1.4.4",
   "description": "YY language complier",
   "engines": {
     "node": ">=14.15.4"

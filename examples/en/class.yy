@@ -1,9 +1,13 @@
 class Person {
-  getName(name) {
-    print(name)
-    print(this)
+  getName() {
+    return this
+  }
+
+  setName(name) {
+    this.name = name
   }
 }
 
-const person = Person.new("tom")
-person.getName("tom")
+const person = Person.new()
+person.setName("tom")
+person.getName()
