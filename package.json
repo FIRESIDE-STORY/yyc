@@ -1,11 +1,11 @@
 {
   "name": "yyc",
   "version": "1.4.6",
-  "description": "YY language complier",
+  "description": "中文编程解释器, YY language complier",
   "engines": {
     "node": ">=14.15.4"
   },
-  "main": "index.js",
+  "main": "lib/index.js",
   "bin": {
     "yyc": "index.js"
   },
