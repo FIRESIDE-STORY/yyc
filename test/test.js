@@ -1,5 +1,5 @@
 const fs = require('fs');
-const parser = require('./src/yy');
+const parser = require('../src/yy');
 
 function exec(input) {
   return parser.parse(input);
