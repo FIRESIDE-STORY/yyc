@@ -5,7 +5,7 @@
     "editor.insertSpaces": true,
     "editor.wordWrap": "on",
     "editor.defaultFormatter": "esbenp.prettier-vscode",
-  
+
     "editor.formatOnSave": false,
     "editor.formatOnPaste": false,
     "[javascript]": {
@@ -22,4 +22,3 @@
       "coverage": true
     },
   }
-  

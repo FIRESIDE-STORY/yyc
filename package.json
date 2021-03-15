@@ -10,7 +10,7 @@
     "yyc": "index.js"
   },
   "scripts": {
-    "test": "node test.js",
+    "test": "node test/test.js",
     "build": "jison  src/yy.jison  --outfile src/yy.js"
   },
   "repository": {

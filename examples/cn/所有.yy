@@ -87,12 +87,3 @@
 
 打印(文档)
 
-
-引入 "net" 作为 网络连接
-
-定义 服务器 = 网络连接.createServer()
-
-定义 监听 = 服务器.listen({
-  host: 'localhost',
-  port: 80
-})

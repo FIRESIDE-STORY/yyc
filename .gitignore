@@ -19,3 +19,5 @@ jspm_packages
 ./Dockerfile
 package-lock.json
 src/yy.jison
+tmp.yy
+yyc
