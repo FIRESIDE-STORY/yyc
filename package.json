@@ -1,6 +1,6 @@
 {
   "name": "yyc",
-  "version": "1.4.8",
+  "version": "1.4.9",
   "description": "中文编程解释器, YY language complier",
   "engines": {
     "node": ">=14.15.4"
