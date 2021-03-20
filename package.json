@@ -1,6 +1,6 @@
 {
   "name": "yyc",
-  "version": "1.4.7",
+  "version": "1.4.10",
   "description": "中文编程解释器, YY language complier",
   "engines": {
     "node": ">=14.15.4"
@@ -10,6 +10,7 @@
     "yyc": "index.js"
   },
   "scripts": {
+    "example": "node examples/run_example.js",
     "test": "node test/test.js",
     "build": "jison  src/yy.jison  --outfile src/yy.js"
   },
@@ -35,7 +36,7 @@
   "dependencies": {},
   "files": [
     "lib/",
-    "src/",
+    "src/yy.js",
     "index.js",
     "README.md"
   ]
